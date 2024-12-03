@@ -201,3 +201,11 @@ kubectl edit configmap argocd-rbac-cm -n argocd
 ![oauth2-proxy_4](/images/keycloak/oauth2-proxy/oauth2-proxy_4.png)
 ![oauth2-proxy_5](/images/keycloak/oauth2-proxy/oauth2-proxy_5.png)
 ![oauth2-proxy_6](/images/keycloak/oauth2-proxy/oauth2-proxy_6.png)
+
+### Grafana
+![client_1](/images/keycloak/grafana/client_1.png)
+![client_2](/images/keycloak/grafana/client_2.png)
+![client_3](/images/keycloak/grafana/client_3.png)
+![scopes](/images/keycloak/grafana/scopes.png)
+![roles](/images/keycloak/grafana/roles.png)
+![mapper](/images/keycloak/grafana/mapper.png)
